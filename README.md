@@ -2,9 +2,9 @@
 
 ![Monzo_Dev](https://mondoimages.s3.amazonaws.com/logos/monzo-horizontal-darkBg-gt100px.svg)
 
-Team project with cdoding bootcamp [MCRcodes](https://github.com/MCRcodes), creating a web app for User rewards using [Monzo APi](https://developers.monzo.com/)
+Class project with coding bootcamp [MCRcodes](https://github.com/MCRcodes), creating a web app for User rewards using [Monzo APi](https://developers.monzo.com/)
 
-___Work In Progress__
+___Work In Progress___
 
 #### Team
 - [Brad](https://github.com/bradlead)
