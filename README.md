@@ -1,4 +1,4 @@
-## Class Project (Week 0) - Monzo Reward Web App
+## Class Project - Monzo Reward Web App
 
 ![Monzo_Dev](https://mondoimages.s3.amazonaws.com/logos/monzo-horizontal-darkBg-gt100px.svg)
 
@@ -13,3 +13,8 @@ ___Work In Progress___
 
 #### Weekly Progress
 - [Week 0](./Week_0/README.md)
+
+#### Useful Project Planning Links
+* [Trello](https://www.trello.com) - Kanban project planning
+* [Draw.io](https://www.draw.io) - Good for mapping out application flow/database relations
+* [Moqups](https://moqups.com/) - Create blueprints of what your MVP should look like
