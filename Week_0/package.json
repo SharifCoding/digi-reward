@@ -1,7 +1,7 @@
 {
   "name": "initialsetup",
   "version": "1.0.0",
-  "description": "One page Monzo OAuth setup",
+  "description": "Basic Login UAouth Web App access to Monzo API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
