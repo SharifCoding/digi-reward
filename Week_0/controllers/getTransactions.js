@@ -31,12 +31,12 @@ const getTransactions = (req, res) => {
         category,
       } = transaction;
       res.write(`
-              <tr>
-                <td>${description}</td>
-                <td>&pound;${(amount / 100).toFixed(2)}</td>
-                <td>${category}</td>
-              </tr>
-            `);
+        <tr>
+          <td>${description}</td>
+          <td>&pound;${(amount / 100).toFixed(2)}</td>
+          <td>${category}</td>
+        </tr>
+      `);
     }
     res.write('</tbody></table>');
     res.end('<br /><a href="/accounts">&lt; Back to accounts</a>');

@@ -2,45 +2,30 @@
 
 #### Mapping Database Flow
 
-![Database](./dbMockup.png)
+![Database](./img/dbMockup.png)
 
-#### MongoDB Schema
-```js
-// Account Schema
-const accountSchema = new Schema({
-  id: Number,
-  name: String,
-  transaction: {
-    type: Schema.Types.ObjectId, ref: 'Transaction',
-  },
-  reward: {
-    type: Schema.Types.ObjectId, ref: 'Reward',
-  },
-});
-
-// Transaction Schema
-const transactionSchema = new Schema({
-  id: Number,
-  description: String,
-  settled: Number,
-  merchant: {
-    type: Schema.Types.ObjectId, ref: 'Merchant',
-  },
-});
-
-// Merchant Schema
-const merchantSchema = new Schema({
-  id: Number,
-  name: String,
-});
-
-// Reward Schema
-const rewardSchema = new Schema({
-  id: Number,
-  total: Number,
-  last: Number,
-});
+#### Database Treeview
+```bash
+|-- user
+    |-- user.id
+    |-- user.name
+    |-- transaction
+    |   |-- transaction_id
+    |   |-- transaction_description
+    |   |-- merchant
+    |       |-- merchant_id
+    |       |-- merchant_name
+    |-- reward
+        |-- reward_id
+        |-- reward_total
 ```
+
+#### MongoDB User Listings
+
+![MongoDb](./img/MongoDb.png)
+
 #### Further Reading
-- [Rules of Thumb for MongoDB Schema Design](https://keon.io/mongodb-schema-design/)
 - [Introduction to Mongoose for MongoDB](https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c57)
+- [JSON Schema](https://restfulapi.net/json-schema/)
+- [Rules of Thumb for MongoDB Schema Design](https://keon.io/mongodb-schema-design/)
+- [Building a REST API using Mongo DB](https://codeburst.io/building-a-rest-api-using-mongo-db-75cac3403fab)
