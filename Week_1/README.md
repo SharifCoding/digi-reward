@@ -7,8 +7,8 @@
 #### Database Treeview
 ```bash
 |-- user
-    |-- user_id
-    |-- user_name
+    |-- user_id (Monzo accounts_id)
+    |-- user_name (Monzo accounts_description)
     |-- transaction
     |   |-- transaction_id
     |   |-- transaction_description
@@ -16,8 +16,10 @@
     |       |-- merchant_id
     |       |-- merchant_name
     |-- reward
-        |-- reward_id
-        |-- reward_total
+        |-- reward_id (unique id)
+        |-- reward_merchant_id (matches with merchant_id)
+        |-- reward_merchant_name (matches with merchant_name)
+        |-- reward_redeem (boolean)
 ```
 
 #### MongoDB User Listings
