@@ -7,8 +7,8 @@
 #### Database Treeview
 ```bash
 |-- user
-    |-- user.id
-    |-- user.name
+    |-- user_id
+    |-- user_name
     |-- transaction
     |   |-- transaction_id
     |   |-- transaction_description
