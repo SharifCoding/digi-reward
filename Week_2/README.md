@@ -45,3 +45,6 @@ npm start --prefix app
 This will run the server and frontend, open via localtunnel(make sure its running as well) url to view it in the browser. If you make any changes and save the changes process will automatically refresh and you will be able to see the results in the browser.
 
 If you want to end the process hold `control` and press `c` in mac, if you are not using mac hold `ctrl` and press `c`.
+
+#### Further Reading
+[auth0.com](https://auth0.com/)

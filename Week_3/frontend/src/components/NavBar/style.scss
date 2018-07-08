@@ -1,0 +1,19 @@
+@import '../../vars.scss';
+
+.monzo-nav-container {
+  padding: 1.25em 0 0.9em;
+  background-color: $dark-blue;
+}
+
+.monzo-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  @include container;
+}
+
+.monzo-nav .mzw-link {
+  font-size: 1em;
+  font-weight: 600;
+}
