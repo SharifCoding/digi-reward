@@ -8,7 +8,7 @@ This repository contain two repositories; Express/Mongoose API code is in [`/bac
 
 #### Setting up a Monzo client
 - Create a client on Monzo - [https://docs.monzo.com/#authentication](https://docs.monzo.com/#authentication)
-- Set *application name* as **authentication-example**
+- Set *application name* as **monzo-reward-example**
 - Set *homepage url* as **localhost:8080**
 - Set *callback url* as **localhost:8080/login-monzo**
 - take note of your client id and client secret - you will need them shortly
