@@ -2,7 +2,7 @@
 
 #### Mapping Database Flow
 
-![Database](./img/dbMockup.png)
+![Database](./dbMockup.png)
 
 #### Database Treeview
 ```bash
@@ -24,10 +24,12 @@
 
 #### MongoDB User Listings
 
-![MongoDb](./img/MongoDb.png)
+![MongoDb](./MongoDb.png)
 
 #### Further Reading
 - [Introduction to Mongoose for MongoDB](https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c57)
 - [JSON Schema](https://restfulapi.net/json-schema/)
 - [Rules of Thumb for MongoDB Schema Design](https://keon.io/mongodb-schema-design/)
 - [Building a REST API using Mongo DB](https://codeburst.io/building-a-rest-api-using-mongo-db-75cac3403fab)
+
+[Return to README.md](../README.md)

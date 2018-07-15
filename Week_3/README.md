@@ -39,4 +39,6 @@ This will run the server and frontend, open via localtunnel(make sure its runnin
 If you want to end the process hold `control` and press `c` in mac, if you are not using mac hold `ctrl` and press `c`.
 
 #### Further Reading
-[rc-progress](http://react-component.github.io/progress/)
+- [rc-progress](http://react-component.github.io/progress/)
+
+[Return to README.md](../README.md)

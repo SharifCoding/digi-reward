@@ -16,6 +16,7 @@ ___Work In Progress___
 - [Week 1](./Week_1/README.md)
 - [Week 2](./Week_2/README.md)
 - [Week 3](./Week_3/README.md)
+- [Week 4](./Week_4/README.md)
 
 #### Useful Project Planning Links
 * [Trello](https://www.trello.com) - Kanban project planning

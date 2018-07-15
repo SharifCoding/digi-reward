@@ -47,4 +47,6 @@ This will run the server and frontend, open via localtunnel(make sure its runnin
 If you want to end the process hold `control` and press `c` in mac, if you are not using mac hold `ctrl` and press `c`.
 
 #### Further Reading
-[auth0.com](https://auth0.com/)
+- [auth0.com](https://auth0.com/)
+
+[Return to README.md](../README.md)
