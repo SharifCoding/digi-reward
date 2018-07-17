@@ -1,7 +1,8 @@
 ## Class Project (Week 0) - Monzo Reward Web App
-A basic Web App with Login UAouth 2.0 access to Monzo API to pull a User list of accounts and transactions.
 
-![Monzo UAouth](./MonzoLogIn.png)
+![Monzo_Dev](https://mondoimages.s3.amazonaws.com/logos/monzo-horizontal-darkBg-gt100px.svg)
+
+A basic Web App with Login UAouth 2.0 access to Monzo API to pull a User list of accounts and transactions.
 
 ### Built-on:
 - [Node.js](https://nodejs.org/en/) - Node Package Manager
