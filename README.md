@@ -1,7 +1,8 @@
-## Class Project - Monzo Reward Web App
-Class project with coding bootcamp [MCRcodes](https://github.com/MCRcodes), creating a web app for User rewards using [Monzo APi](https://developers.monzo.com/)
+## Inde$pendent - Monzo Reward Web App
 
-___Work In Progress___
+![Login](./Final/Reward_Animate.gif)
+
+Class project with coding bootcamp [MCRcodes](https://github.com/MCRcodes), creating a web app for User rewards using [Monzo APi](https://developers.monzo.com/)
 
 #### Team
 - [Brad](https://github.com/bradlead)
@@ -14,6 +15,7 @@ ___Work In Progress___
 - [Week 2](./Week_2/README.md)
 - [Week 3](./Week_3/README.md)
 - [Week 4](./Week_4/README.md)
+- [Final](./Final/README.md)
 
 #### Useful Project Planning Links
 * [Trello](https://www.trello.com) - Kanban project planning
