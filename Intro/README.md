@@ -1,4 +1,4 @@
-## Class Project (Final) - Monzo Reward Web App
+## Class Project (Intro) - Monzo Reward Web App
 
 ![indespendent logo](./indespendent.svg)
 
