@@ -10,6 +10,7 @@ Class project with coding bootcamp [MCRcodes](https://github.com/MCRcodes), crea
 - [Osman](https://github.com/SharifCoding)
 
 #### Weekly Progress
+- [Intro](./Intro/README.md)
 - [Week 0](./Week_0/README.md)
 - [Week 1](./Week_1/README.md)
 - [Week 2](./Week_2/README.md)
