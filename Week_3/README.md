@@ -40,5 +40,6 @@ If you want to end the process hold `control` and press `c` in mac, if you are n
 
 #### Further Reading
 - [rc-progress](http://react-component.github.io/progress/)
+- [How To Build A Progress Bar With React](https://medium.com/@ItsMeDannyZ/how-to-build-a-progress-bar-with-react-8c5e79731d1f)
 
 [Return to README.md](../README.md)

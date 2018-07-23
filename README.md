@@ -10,15 +10,11 @@ Class project with coding bootcamp [MCRcodes](https://github.com/MCRcodes), crea
 - [Osman](https://github.com/SharifCoding)
 
 #### Weekly Progress
-- [Intro](./Intro/README.md)
+- [Introduction](./Intro/README.md)
+- [Planning](./Intro/PLANNING.md)
 - [Week 0](./Week_0/README.md)
 - [Week 1](./Week_1/README.md)
 - [Week 2](./Week_2/README.md)
 - [Week 3](./Week_3/README.md)
 - [Week 4](./Week_4/README.md)
 - [Final](./Final/README.md)
-
-#### Useful Project Planning Links
-* [Trello](https://www.trello.com) - Kanban project planning
-* [Draw.io](https://www.draw.io) - Good for mapping out application flow/database relations
-* [Moqups](https://moqups.com/) - Create blueprints of what your MVP should look like
