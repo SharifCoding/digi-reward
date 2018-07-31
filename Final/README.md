@@ -5,10 +5,10 @@
 Final Monzo reward web app with OAuth login page, reward progression, and active reward page.
 
 <b>Please Note:</b>
-This repository contain two repositories; Express/Mongoose API code is in [`/backend`](https://github.com/SharifCoding/digi-reward-back) directory (managing data), and React code is in [`/frontend`](https://github.com/SharifCoding/digi-reward-front) directory (frontend).
+This repository contain two repositories; Express/Mongoose API code is in [`/backend`](./digi-reward-back/) directory (managing data), and React code is in [`/frontend`](./digi-reward-front/) directory (frontend).
 
 <b>Additionally:</b>
-Active rewards will need to be populated with the database using the server file [`seed-rewards.js`](https://github.com/SharifCoding/digi-reward-back/blob/master/seeders/seed-rewards.js), by simply running the command `node seeders/seed-rewards.js` in it's path.
+Active rewards will need to be populated with the database using the server file [`seed-rewards.js`](./digi-reward-back/seeders/seed-rewards.js), by simply running the command `node seeders/seed-rewards.js` in it's path.
 
 #### Setting up a Monzo client
 - Create a client on Monzo - [https://docs.monzo.com/#authentication](https://docs.monzo.com/#authentication)
